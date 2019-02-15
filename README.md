@@ -27,7 +27,10 @@
 
 First activity
 
+![](images/image1.jpg)
 
 Second Activity
 
+
+![](images/image2.jpg)
 
